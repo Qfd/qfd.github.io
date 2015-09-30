@@ -1,0 +1,38 @@
+html {
+    color: #040E1A;
+    min-width: 320px;
+    font-family: 'Cutive Mono', 'Helvetica Neue', 'Sans Serif';
+    text-align: center;
+    padding: 3%;
+}
+
+img {
+    display: block;
+    margin: 2% auto;
+}
+
+h1 {
+    font-size: 2em;
+    padding: 20px 0;
+    margin: 2% 0;
+}
+
+main {
+    display: inline-block;
+    text-align: left;
+    padding: 5px;
+}
+
+h2 {
+    font-size: 1.2em;
+    padding: 0 0 10px;
+}
+
+ol {
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}
