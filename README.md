@@ -1,3 +1,3 @@
 # qfd.github.io
 
-tech
+magic tech
