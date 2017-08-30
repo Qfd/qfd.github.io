@@ -1,3 +1,3 @@
 # qfd.github.io
 
-magic tech
+[quantified.co](https://quantified.co)
